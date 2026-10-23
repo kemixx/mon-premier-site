@@ -30,6 +30,10 @@ def presentation():
 @app.get("/loisirs")
 def loisirs():
     return "J'aime faire du foot."
+    
+@app.get("/bonjour/<prenom>")
+def bonjour(prenom):
+    return f"<h1>Bonjour {prenom} !</h1>"
 
 
 # ---------------------------------------------------------------
