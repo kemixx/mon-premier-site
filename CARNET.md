@@ -89,4 +89,4 @@ Python s'exécute sur le serveur ; JavaScript s'exécute dans le navigateur.
 Une app météo (échange de données GPS contre des températures).
 
 🏁 Pour conclure
-Tu tapes l'adresse, ton navigateur envoie une requête au serveur, le serveur prépare la page et renvoie le code, puis ton navigateur l'affiche.joliment la page web sur ton écran en une fraction de seconde !
+Tu tapes l'adresse, ton navigateur envoie une requête au serveur, le serveur prépare la page et renvoie le code, puis ton navigateur l'affiche.joliment la page web sur ton écran en une fraction de seconde.
