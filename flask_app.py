@@ -34,7 +34,7 @@ def presentation():
         <li>Les jeux vidéo</li>
         <li>La musique</li>
         <li>Le code (bientôt !)</li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFAkBvZgoyT8Iyh1VrVisZLnOBz8KEYaY6mqYhF2wsQ&s=10" width="100">
     </ul>
     """
     
